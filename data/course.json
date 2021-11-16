@@ -1,0 +1,30 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Systems Engineering"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "54e3f5ea-38b5-3365-97a4-07feb2d7ac86",
+      "d953f436-20c8-1fca-54c9-607b49b72b38",
+      "b3cd201d-274d-7ed0-a6aa-9f8653210e5e"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Doctoral Seminar in Engineering Systems",
+  "course_description": "IDS.900 _Doctoral Seminar in Engineering Systems_ examines the core theory and contextual applications of the emerging field of Engineering Systems. There is a focus on doctoral\u2013level analysis of scholarship on key concepts such as complexity, uncertainty, fragility, and robustness, as well as a critical look at the historical roots of the field and related areas such as systems engineering, systems dynamics, agent modeling, and systems simulations. Contextual applications of the course range from aerospace to technology implementation to regulatory systems to large\u2013scale systems change. Special attention is given to the interdependence of social and technical dimensions of engineering systems.\n",
+  "department_numbers": [
+    "IDS"
+  ],
+  "extra_course_numbers": "IDS.900 (formerly ESD.83)",
+  "primary_course_number": "IDS.900",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Presentation Assignments",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
